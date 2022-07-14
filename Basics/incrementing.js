@@ -1,0 +1,16 @@
+var x = 87;
+x++;
+console.log(x);
+console.log("................");
+var a =10;
+a--;
+console.log(a);
+console.log(".................");
+var ourDecimal =5.7;
+console.log(ourDecimal);
+console.log("................");
+var quotient= 4.4/2.0;
+console.log(quotient);
+console.log("..................");
+var remainder=11%3;
+console.log(remainder);
