@@ -21,10 +21,13 @@ console.log(link);
     console.log(mystr);
     console.log(".......................");
     //string concatination.
-    var str="i come first " + "you come second"
+    var yousecond="freecode";
+    var str="i come first " + yousecond +",how are you?";
     console.log(str);
     console.log("....................... ");
     var out ="Bangalore weather"
     out+= " is sooo good."
     console.log(out);
     console.log(".................");
+    var mynewstr= "i ama \"double quoted\" string inside \"double quote\""
+    console.log(mynewstr); 
